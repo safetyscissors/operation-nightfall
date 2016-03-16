@@ -28,3 +28,7 @@ Porting my favorite game, Spybot: The Nightfall Incident Shockwave to Javascript
 - backend server integration for scoring / multiplayer / ai processing
 - story writing
 - graphics and style
+
+## Cool bits
+- astar in javascript. its in `src/page_game.js`
+- animation queue scheduling that splits functions into slices per frame
