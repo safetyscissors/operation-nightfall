@@ -3,7 +3,7 @@
 Porting my favorite game, Spybot: The Nightfall Incident Shockwave to Javascript. Demo at [theninthbit](http://theninthbit.us/nightfall)
 
 ## This was
-- strategy game. themed on hacking. 
+- strategy game. themed on hacking. most similar to Advance Wars 
 - developed in 2002 and no longer officially available.
 - originally developed by gameLabs for Lego
 
